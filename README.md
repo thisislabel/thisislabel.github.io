@@ -17,3 +17,7 @@ The disposable camera of aerial photography. Crowd selfies, guerilla actions, jo
 Tin Bath
 
 Deaf people at the theatre have a shody experience. How can you let performers use props and their talent for delivery to communicate.
+
+GoGoGo
+
+Voice recognition used for extremely silly reasons. Its all about how many vowels you've come up with when the time runs out. 
