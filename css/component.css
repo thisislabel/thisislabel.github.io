@@ -158,13 +158,22 @@
 /* Hover effects */
 .grid li.shown:hover h3 {
 	color: #fff;
-	-webkit-transform: translate3d(0,-30px,0);
-	transform: translate3d(0,-30px,0);
+	border-bottom: 1px solid #D3EEE2;
+	-webkit-transform: translate3d(0,-314px,0);
+	transform: translate3d(0,-314px,0);
 }
 
 .grid li.shown:hover > a::before {
 	border-width: 14px;
 	border-color: #2E3444;
+}
+
+.grid li.shown:hover p {
+	opacity: 1;
+	display: block;
+	-webkit-transition: opacity 0.5s;
+    -moz-transition: opacity 0.5s;
+    transition: opacity 0.5s;
 }
 
 /* Animations */
@@ -268,4 +277,19 @@
 .grid li.shown img,
 .grid li.shown h3 {
 	visibility: visible;
+}
+
+.grid li p {
+	position: absolute;
+	bottom: -12px;
+	left: 0;
+	height: 310px;
+	width: 100%;
+	background-color: #2E3444;
+	opacity: 0;
+	color: #fff;
+	padding: 25px;
+	-webkit-transition: opacity 0.1s;
+    -moz-transition: opacity 0.1s;
+    transition: opacity 0.1s;
 }

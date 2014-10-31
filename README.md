@@ -21,3 +21,7 @@ Deaf people at the theatre have a shody experience. How can you let performers u
 GoGoGo
 
 Voice recognition used for extremely silly reasons. Its all about how many vowels you've come up with when the time runs out. 
+
+This Happened
+
+This Happened is a series of events focusing on the stories behind interaction design. The events happen all over the world through different local chapters. Co-founded and produced the events based in Bristol. Speakers ranged from Michelin star chefs and leading inventors to perfumers and roboticists.
