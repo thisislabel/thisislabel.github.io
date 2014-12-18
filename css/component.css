@@ -277,6 +277,7 @@
 .grid li.shown img,
 .grid li.shown h3 {
 	visibility: visible;
+	width:300px;
 }
 
 .grid li p {
