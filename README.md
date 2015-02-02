@@ -8,15 +8,15 @@ Person scans second record before last has finished - Listening to stuff digital
 
 Time Squid
 
-It's a wearable Squid that allows contestants to act out hilarious moments in history. Part of a pitch for a new TV show.
+It's a wearable Squid that allows contestants to act out hilarious moments in history. Part of a concept for a new TV show.
 
 Cut Price Aerial Photography
 
-The disposable camera of aerial photography. Crowd selfies, guerilla actions, journalistic reportage.
+The disposable camera of aerial photography. For crowd selfies, guerilla actions, journalistic reportage.
 
 Tin Bath
 
-Deaf people at the theatre have a shody experience. How can you let performers use props and their talent for delivery to communicate.
+Deaf people at the theatre have a shody experience. This was a rapid prototyping session looking at how performers can use props and physicality to express and communicate.
 
 GoGoGo
 
