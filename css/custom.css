@@ -1,0 +1,21 @@
+#logo h1 {
+	position: relative;
+	top: -50px;
+	left: 0;
+	background: url('../images/label_logo.png') no-repeat;
+	background-size: 200px 94px;
+	width: 200px;
+	height: 94px;
+	text-indent: -1000em;
+	overflow: hidden;
+	display: block;
+}
+
+nav {
+	border: none;
+}
+
+header {
+	border-top: none;
+	padding-top: 45px;
+}
